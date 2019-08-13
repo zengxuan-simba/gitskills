@@ -1,1 +1,5 @@
-This is my test.txt file & simple.
+<<<<<<< HEAD
+This is my test.txt file AND simple.
+=======
+This is my test.txt file AND simple.
+>>>>>>> feature1
