@@ -1,1 +1,2 @@
 Edit on dev.This is my test.txt file AND simple.
+Now i fixed the issue.
