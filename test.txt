@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-This is my test.txt file AND simple.
-=======
-This is my test.txt file AND simple.
->>>>>>> feature1
+Edit on dev.This is my test.txt file AND simple.
