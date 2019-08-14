@@ -1,2 +1,6 @@
 Edit on dev.This is my test.txt file AND simple.
+<<<<<<< Updated upstream
 Now i fixed the issue.
+=======
+I'm working,not finished yet.
+>>>>>>> Stashed changes
